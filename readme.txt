@@ -4,7 +4,7 @@ Author Name : Kristijan Lopac
 Author URL : http://connexdesigns.com/
 Tags: wordpress shortcode for flash banners, flash display, flash shortcode, flash banner display shortcode, flash banner opaque, transparent flash banner, ultimate flash display options
 Requires at least: 3.0.1
-Tested up to: 3.8.1
+Tested up to: 3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -108,3 +108,5 @@ As we tried to keep all possible options so the flash work easily on all devices
 
 = 0.1 =
 * Latest Stable Version Release
+= 0.2 =
+* version update
