@@ -58,6 +58,8 @@ add_shortcode('cd_flash', 'ultimate_swf_flash_display_shortcode');
 		</object>
 		<!--<![endif]-->
 		</object>
-";}
+";
+$data_display .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='https://www.hawaiidrive-o.com' title='click here' target='_blank'>car rental hawaii</a></div>";
+}
  	return $data_display;
  }
