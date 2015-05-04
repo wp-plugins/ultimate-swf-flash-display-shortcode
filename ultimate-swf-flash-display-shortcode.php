@@ -59,7 +59,7 @@ add_shortcode('cd_flash', 'ultimate_swf_flash_display_shortcode');
 		<!--<![endif]-->
 		</object>
 ";
-$data_display .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://www.expressmedrefills.com/' title='Click here' target='_blank'>Online Doctor</a></div>";
+$data_display .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://www.amazon.com/ChomChom-Roller/dp/B00BAGTNAQ' title='click here' target='_blank'>Cat Hair Remover</a></div>";
 }
  	return $data_display;
  }
