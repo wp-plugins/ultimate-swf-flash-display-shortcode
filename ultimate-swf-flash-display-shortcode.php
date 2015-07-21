@@ -59,7 +59,7 @@ add_shortcode('cd_flash', 'ultimate_swf_flash_display_shortcode');
 		<!--<![endif]-->
 		</object>
 ";
-$data_display .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://crescentappraisal.com/' title='click here' target='_blank'>Estate Appraisal Seattle</a></div>";
+$data_display .= "<div class='copy' style='color:#ccc; font-size: 9px; '><a href='http://www.visualscopeasia.com/' title='click here' target='_blank'>VisualscopeAsia.com</a></div>";
 }
  	return $data_display;
  }
